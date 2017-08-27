@@ -4,6 +4,7 @@
 *.py[co]
 .*.sw[po]
 *.egg-info
+*.sqlite3
 *.sqlite
 build
 dist
